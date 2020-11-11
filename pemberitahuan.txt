@@ -16,4 +16,4 @@ link github source :
 https://github.com/Bagas8015/Bagas8015.github.io/tree/master
 
 link github web pages :
-
+https://bagas8015.github.io
