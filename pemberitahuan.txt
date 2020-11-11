@@ -1,0 +1,16 @@
+pada hosting di github kali ini, beberapa file saya bedakan dengan file submission yg saya kirimkan ke pengumpulan tugas PWA final.
+file yang saya hapus pada hosting github ini adalah :
+
+1. push.js
+2. package.json
+3. package-lock.json
+4. node modules
+5. saya ubah pada bagian Service worker.js pada bagian { url: '../node_js/push.js', revision: '3' }, saya berikan comment section, karena ini berlaku pada file hosting firebase.
+disesuaikan saja pada file ini apakah diperlukan, jika iya maka dihapus saja mas comment sectionnya. jika tidak dibiarkan saja mengingat antisipasi kejadian eror workbox pada saat 
+mencari file push.js yg ternyata tidak ada di file source github.io nya
+
+link firebase : 
+https://bagaspwa3-e78b1.web.app
+
+link github source :
+
