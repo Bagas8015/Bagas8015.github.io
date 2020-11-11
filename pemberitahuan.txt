@@ -6,7 +6,8 @@ file yang saya hapus pada hosting github ini adalah :
 3. package-lock.json
 4. node modules
 
-keempat file tersebut saya letakan di file node_modules pada berkas pengumpulan tugas saya
+keempat file tersebut saya letakan di file node_modules pada berkas pengumpulan tugas saya. tujuan saya melakukan ini adalah untuk menyamakan file pada branch master ini
+dengan file public yang ada pada berkas pengumpulan saya, saya memakai cara ini berdasarkan saran dari pembimbing saya di grup MPWA Dicoding 
 
 link firebase : 
 https://bagaspwa3-e78b1.web.app
