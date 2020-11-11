@@ -7,7 +7,6 @@ if (workbox){
         { url: '/index.html', revision: '3' },
         { url: '/detail_info.html', revision: '3' },
         { url: '/manifest.json', revision: '3' },
-        { url: '../node_js/push.js', revision: '3' },
         { url: '/pages/favorite.html', revision: '3' },
         { url: '/pages/information.html', revision: '3' },
         { url: '/pages/klasemen.html', revision: '3' },
