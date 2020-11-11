@@ -6,6 +6,8 @@ file yang saya hapus pada hosting github ini adalah :
 3. package-lock.json
 4. node modules
 
+keempat file tersebut saya letakan di file node_modules pada berkas pengumpulan tugas saya
+
 link firebase : 
 https://bagaspwa3-e78b1.web.app
 
