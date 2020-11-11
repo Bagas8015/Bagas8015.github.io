@@ -13,4 +13,7 @@ link firebase :
 https://bagaspwa3-e78b1.web.app
 
 link github source :
+https://github.com/Bagas8015/Bagas8015.github.io/tree/master
+
+link github web pages :
 
